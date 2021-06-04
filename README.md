@@ -1,11 +1,9 @@
-# Hello
+# About me
 
----
 
 my name is **Christian Jeremy**, I come from Indonesia and live in Bandar Lampung, I was born on May 7 2007
 
 ## what i like?
----
 
 + 🏊‍♀️ Swimming
 + 👨‍💻 create a website

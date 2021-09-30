@@ -1,7 +1,7 @@
 # About me
 
 
-my name is **Christian Jeremy**, I come from Indonesia and live in Bandar Lampung, I was born on May 7 2007
+my name is **Jeremy**, I come from Indonesia and live in Bandar Lampung, I was born on May 7 2007
 
 ![](https://komarev.com/ghpvc/?username=jeremy776&color=yellowgreen)
 

@@ -1,6 +1,6 @@
 # About me
 
-My name is **Jeremy**, I live in Indonesia
+My name is **Jeremy**.
 
 ![](https://komarev.com/ghpvc/?username=jeremy776&color=yellowgreen)
 

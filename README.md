@@ -2,7 +2,7 @@
 
 My name is **Jeremy**.<br />
 I come from Indonesia.<br />
-I started as a **Web Dev** & **Discord Bot Dev** in 2019, and now still learning.
+I started as a **Web Dev** & ~~**Discord Bot Dev**~~ in 2019, and now still learning.
 
 ![](https://komarev.com/ghpvc/?username=jeremy776&color=yellowgreen)
 

@@ -8,7 +8,7 @@ I started as a **Web Dev** & ~~**Discord Bot Dev**~~ in 2019, and now still lear
 
 ## something i like
 
-+ 😴 Sleep
++ 😴
 + 🌃
 
 ## Github Stats

@@ -1,7 +1,6 @@
 # About me
 
 My name is **Jeremy**.<br />
-I come from Indonesia.<br />
 
 ![](https://komarev.com/ghpvc/?username=jeremy776&color=yellowgreen)
 

@@ -8,6 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=jeremy776&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jeremy776&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremy776&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://indogithubers-badge.vercel.app/badge?username=jeremy776)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jeremy776&theme=radical&no-frame=false&no-bg=true&margin-w=4)

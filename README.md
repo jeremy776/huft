@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeremy776&show_icons=true&locale=en" alt="jeremy776" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeremy776&" alt="jeremy776" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeremy776&theme=dark&hide_border=true&border_radius=7.2&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)

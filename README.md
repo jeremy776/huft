@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian jeremy</h1>
 <h3 align="center">Students who are enthusiastic about learning new things</h3>
 
-- 🔭 I’m currently working on [Kisara](kisara2.vercel.app)
+- 🔭 I’m currently working on [Kisara](https://kisara2.vercel.app)
 
 - 🌱 I’m currently learning **Svelte, Next.js**
   

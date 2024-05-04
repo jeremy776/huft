@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christian jeremy</h1>
 <h3 align="center">Students who are enthusiastic about learning new things</h3>
 
-- 🔭 I’m currently working on [Kisara](https://kisara2.vercel.app)
+- 🔭 I’m currently working on
+  - [Kisara](https://kisara2.vercel.app) (Mendapatkan pesan rahasia dari pengirim anonymous)
+  - [Holy Verse](https://alkitab-ecru.vercel.app/) (Alkitab online dan kumpulan lagu rohani)
 
 - 🌱 I’m currently learning **Svelte, Next.js**
   

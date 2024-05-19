@@ -2,6 +2,7 @@
 <h3 align="center">Students who are enthusiastic about learning new things</h3>
 
 - 🔭 I’m currently working on
+  - [Confession Bot WhatsApp](https://confessionbot.xyz) (Ngirim pesan whatsapp ke doi cuy tanpa ketawan)
   - [Kisara](https://kisara2.vercel.app) (Mendapatkan pesan rahasia dari pengirim anonymous)
   - [Holy Verse](https://alkitab-ecru.vercel.app/) (Alkitab online dan kumpulan lagu rohani)
 

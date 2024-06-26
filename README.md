@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Christian jeremy</h1>
-<h3 align="center">Students who are enthusiastic about learning new things</h3>
+<h3 align="center">...................</h3>
 
 - 🔭 I’m currently working on
-  - [Confession Bot WhatsApp](https://confessionbot.xyz) (Ngirim pesan whatsapp ke doi tanpa ketawan)
-  - [Kisara](https://kisara2.vercel.app) (Mendapatkan pesan rahasia dari pengirim anonymous)
-  - [Holy Verse](https://alkitab-ecru.vercel.app/) (Alkitab online dan kumpulan lagu rohani)
-
-- 🌱 I’m currently learning **Svelte, Next.js**
+  - [Confession Bot WhatsApp](https://confessionbot.xyz) (Ngirim pesan whatsapp secara anonim)
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremy776&label=Profile%20views&color=0e75b6&style=flat" alt="jeremy776" /> </p>
 

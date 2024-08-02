@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian jeremy</h1>
-<h3 align="center">"Jangan takut gagal, karena kegagalan adalah batu loncatan menuju kesuksesan."</h3>
+<p align="center">"Jangan takut gagal, karena kegagalan adalah batu loncatan menuju kesuksesan."</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremy776&label=Profile%20views&color=0e75b6&style=flat" alt="jeremy776" /> </p>

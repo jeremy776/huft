@@ -2,7 +2,8 @@
 <h3 align="center">...................</h3>
 
 - 🔭 I’m currently working on
-  - [Confession Bot WhatsApp](https://confessionbot.xyz) (Ngirim pesan whatsapp secara anonim)
+  - [Confession Bot WhatsApp](https://www.confessionbot.xyz)
+  - [Fourteen Media](https://fourtsource.vercel.app/)
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremy776&label=Profile%20views&color=0e75b6&style=flat" alt="jeremy776" /> </p>
 

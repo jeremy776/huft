@@ -5,13 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremy776&label=Profile%20views&color=0e75b6&style=flat" alt="jeremy776" /> </p>
 
 
-## 🔭 I’m currently working on
-  - [Confession Bot WhatsApp](https://www.confessionbot.xyz)
-  - [Fourteen Media](https://fourtsource.vercel.app/)
-  - [Cek Khodam](https://check-khodam-seven.vercel.app/)
-  - [Kirim Rahasia Pesan](https://kisara2.vercel.app/)
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jeremy776&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jeremy776&theme=dark&hide_border=false)<br/>
